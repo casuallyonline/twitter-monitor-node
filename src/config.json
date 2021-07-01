@@ -1,0 +1,10 @@
+{
+  "apiKey": "",
+  "apiSecret": "",
+  "accessToken": "",
+  "accessTokenSecret": "",
+
+  "webhookURL": "",
+
+  "accounts": ["casuallyonline"]
+}
