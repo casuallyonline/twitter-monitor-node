@@ -2,5 +2,23 @@
   "dependencies": {
     "node-fetch": "^2.6.1",
     "twit": "^2.2.11"
-  }
+  },
+  "name": "twitter-monitor-node",
+  "version": "1.0.0",
+  "description": "A simple Twitter monitor using node-fetch and Twit",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casuallyonline/twitter-monitor-node.git"
+  },
+  "author": "Sami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casuallyonline/twitter-monitor-node/issues"
+  },
+  "homepage": "https://github.com/casuallyonline/twitter-monitor-node#readme"
 }
